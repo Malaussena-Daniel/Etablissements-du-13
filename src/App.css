@@ -1,0 +1,14 @@
+h1, h2, h3 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Footer en bas de page */
+.site {
+  min-height: 100vh; 
+  margin-bottom: -40px;
+}
+
+/* Footer en bas de page */
+footer, .minSite {
+  height: 40px;
+}
